@@ -1,0 +1,19 @@
+body {
+    background-color:white;
+}
+
+.logoljr {
+    display: block;
+    margin: auto;
+    width: 80px;
+    height: 50px;
+    padding: 10px;
+}
+
+.company_name {
+    text-align: center;
+}
+
+.information {
+    text-align: center;
+}
